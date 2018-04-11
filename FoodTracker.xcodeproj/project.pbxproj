@@ -92,8 +92,8 @@
 				638AD0BE207482E30067BACF /* MealTableViewCell.swift */,
 				638AD0C02074879C0067BACF /* MealTableViewController.swift */,
 				638AD09E2072F20A0067BACF /* Main.storyboard */,
-				638AD0A12072F20A0067BACF /* Assets.xcassets */,
 				638AD0A32072F20A0067BACF /* LaunchScreen.storyboard */,
+				638AD0A12072F20A0067BACF /* Assets.xcassets */,
 				638AD0A62072F20A0067BACF /* Info.plist */,
 			);
 			path = FoodTracker;

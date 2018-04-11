@@ -96,7 +96,6 @@ import UIKit
             // Set accessibility label
             button.accessibilityLabel = "Set \(index + 1) star rating"
             
-            
             button.addTarget(self, action: #selector(RatingControl.ratingButtonTapped(button:)), for: .touchUpInside)
             // Add button to the stack
             addArrangedSubview(button)
